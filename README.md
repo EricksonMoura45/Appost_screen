@@ -2,6 +2,8 @@
 
 Aplicativo desenvolvido para a Appost.
 
+figma: https://www.figma.com/file/E4xhGkmNCsJH7QjmNB65XH/InfoFut%2FAba-gols?type=design&node-id=0-1&mode=design&t=FMXYVKCUv36DPaED-0
+
 ## Instalação
 
 - Ao clonar o projeto no repositório, basta seguir os seguintes passos:
