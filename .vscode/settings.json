@@ -1,0 +1,10 @@
+{
+    
+    // "dart.flutterSdkPath": "/home/arthur/fvm/versions/3.7.1"
+    //"dart.flutterSdkPath": "C:\\Users\\Erick\\fvm\\versions\\3.0.2",
+    //"java.configuration.updateBuildConfiguration": "automatic"
+    // "dart.flutterSdkPath": "/home/arthur/.puro/envs/stable/flutter",
+    "dart.sdkPath": "/home/arthur/.puro/envs/versao_onecontext_quebrad/flutter/bin/cache/dart-sdk",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "dart.flutterSdkPath": "/home/arthur/.puro/envs/versao_onecontext_quebrad/flutter"
+}
